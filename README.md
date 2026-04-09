@@ -1,2 +1,2 @@
-# code_3000
-Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
+When people bring up tech ethics it usually feels super disconnected from actual programming. Most of the time, it just sounds like something that has nothing to do with my actual job. Reid Blackman points out how a lot of companies just use ethics statements as a PR move to look good on paper but the whole thing is pointless if the message doesn't reach the people in the company.
+The biggest takeaway for me is that you can't just tell a team to do the right thing and expect it to work. You have to give them actual rules and boundaries. There has to be a real bridge between the executives making these big public promises and the people actually building the products.
